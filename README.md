@@ -108,7 +108,7 @@ docker run -it --rm --name rag-app \
 
 #### Step 3: Open
 
-Go to **http://localhost:8501** 🎉
+Go to **http://localhost:8501** 
 
 ---
 
@@ -163,7 +163,7 @@ uv run streamlit run streamlit_app.py
 
 #### Step 6: Open
 
-Go to **http://localhost:8501** 🎉
+Go to **http://localhost:8501** 
 
 ---
 
