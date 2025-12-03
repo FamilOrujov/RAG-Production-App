@@ -44,7 +44,7 @@ A powerful RAG (Retrieval-Augmented Generation) application that lets you upload
 
 ```
 
-<img width="883" height="1445" alt="rag-app-architecture_" src="https://github.com/user-attachments/assets/1107a26e-1cc2-4957-97bf-20e35e7e7cb2" />
+<img src="https://github.com/user-attachments/assets/1107a26e-1cc2-4957-97bf-20e35e7e7cb2" />
 
 
 
